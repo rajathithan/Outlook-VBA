@@ -1,11 +1,10 @@
-Attribute VB_Name = "Module11"
 Sub extract_employees_info()
 
 '===============================================================
 'Macro to export all the employee details of an Organization
 'from Outlook to an Excel file for analysis
 'Coder: Rajathithan Rajasekar
-'GitHub: https://github.com/rajathithan/EXCEL-VBA
+ 'GitHub: https://github.com/rajathithan/Outlook-VBA
 'WebSite: https://www.gadoth.com
 'Facebook: https://www.facebook.com/gadoth/
 '===============================================================
@@ -164,7 +163,7 @@ Sub extract_employees_info()
         
         'My Program is very slow, at the max it can process only 50 to 60 items
         'per minute, So i have restricted the extraction count to 100
-        If Count = 100 Then
+        If Count = 101 Then
             Exit Do
         End If
     Loop
