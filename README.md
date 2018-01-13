@@ -1,4 +1,4 @@
-# Extract Employee details from an Organization
+# Extract Employee details from an Organization using Outlook VBA
 
 ### The extracted module can be used for only testing purposes, You can run the code at your own risk. (I am not liable for it :) ! )
 
