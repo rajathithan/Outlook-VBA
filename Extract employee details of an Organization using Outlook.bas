@@ -17,6 +17,8 @@ Dim Count As Integer
 Global empCName, empFName, empLName, empDepartment, empTitle, empOffice, _
  empCity, empAlias, empEmail, supFname, supLname, supAlias, supEmail, _
 empBPhone, empMPhone As String
+
+
 Sub extract_employees_info()
 
 'Error Handler
