@@ -8,9 +8,9 @@ emailaddress,alias).
 
 You can import this module to your outlook vba editor
 
-The extracted information is stored in an exccel sheet under D drive. The name of the excel file is orgUserList.
+The extracted information is stored in an exccel sheet under C drive. 
 
-I have made the settings in such a way that, it will extract only 100 entries, as the program is very slow and can extract only 
+I have made the settings in such a way that, it will extract only 10 entries, as the program is very slow and can extract only 
 50 to 60 contact information per minute. 
 
 
